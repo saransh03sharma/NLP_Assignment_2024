@@ -1,0 +1,3 @@
+nltk
+gensim
+python -m nltk.downloader stopwords
